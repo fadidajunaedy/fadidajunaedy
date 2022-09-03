@@ -1,6 +1,6 @@
 # 👋 Hi.
 
-My name is Fadida Zanetti Junaedy, I live in Jakarta, Indonesia. I'm interested in Frontend Web Development 👀.
+My name is Fadida Zanetti Junaedy, I live in Jakarta, Indonesia.
 
 - 👀 I'm interested in Frontend Web Development.
 - 🌱 I’m currently learning React JS, Laravel.
