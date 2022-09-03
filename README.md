@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @fadidajunaedy
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning SCSS
-- 💞️ I’m looking to collaborate on Website Project
-- 📫 How to reach me ...
+# 👋 Hi.
 
-<!---
-fadidajunaedy/fadidajunaedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Fadida Zanetti Junaedy, I live in Jakarta, Indonesia. I'm interested in Frontend Web Development 👀.
+
+- 👀 I'm interested in Frontend Web Development.
+- 🌱 I’m currently learning React JS, Laravel.
+- 💞️ I’m looking to collaborate on Website Project.
+- 📫 How to reach me ...
+  * Email : fadidajunaedy@gmail.com
+  * LinkedIn : [Fadida Junaedy](https://www.linkedin.com/in/fadida-junaedy-742652167/)
+  * Instagram : [fadidajunaedy](https://www.instagram.com/fadidajunaedy/)
