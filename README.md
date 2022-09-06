@@ -1,3 +1,5 @@
+![](https://github.com/fadidajunaedy/fm-baseapparel/blob/main/mygif.gif)
+
 # 👋 Hi.
 
 My name is Fadida Zanetti Junaedy, I live in Jakarta, Indonesia.
