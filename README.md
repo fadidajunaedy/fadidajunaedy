@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React JS, Laravel.
 
-- 👨‍💻 All of my projects are available at [fadidajunaedy.vercel.app](fadidajunaedy.vercel.app)
+- 👨‍💻 My Portofolio Website https://fadidajunaedy.vercel.app
 
 - 📫 How to reach me **fadidajunaedy@gmail.com**
 
