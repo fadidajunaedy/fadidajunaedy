@@ -2,7 +2,6 @@
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Fadida Zanetti Junaedy</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadidajunaedy&label=Profile%20views&color=0e75b6&style=flat" alt="fadidajunaedy" /> </p>
-https://www.codewars.com/users/fadidajunaedy/badges/large
 
 - 👀 I'm interested in Frontend Web Development.
 
