@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fadida Junaedy. I’m a former professional Web Developer, currently working as a QA at a bank in Indonesia. I’m based in Jakarta.</p>
+<p align="left">My name is Fadida Zanetti Junaedy, I'm a SIT Tester with a background in web development</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017 (started programming in vocational high school)  <br>📚 I'm currently learning Python for QA Automation  <br>🎯 Goals: Becoming a QA Automation Engineer  <br>🎲 Fun fact: I love reading books, especially novels</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python and Javascript for QA Automation<br>🎯 Goals: Becoming a QA Automation Engineer<br>🎲 Fun fact: I love reading books, especially novels</p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
